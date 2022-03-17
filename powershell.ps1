@@ -1,4 +1,4 @@
-#$PSVersionTable
+$PSVersionTable
 Write-Host "Hello World!!" -ForegroundColor Green
 #Ex:
 #$namelist = @('Priya','Mohan','Cathy')
